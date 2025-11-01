@@ -1,0 +1,9 @@
+.metals/*
+.vscode/*
+.cursor/*
+.cursorrules
+.cursorignore
+.cursorignorerules
+.cursorignorerules
+.env
+.scala-build/*
