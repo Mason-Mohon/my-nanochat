@@ -7,3 +7,4 @@
 .cursorignorerules
 .env
 .scala-build/*
+to-run.txt
